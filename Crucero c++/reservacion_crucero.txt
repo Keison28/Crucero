@@ -1,0 +1,12 @@
+Nombre: Angel
+Apellido: Steven
+Cedula: 192742
+Pasaporte: RD10387
+Correo: Angel@gmail.com
+Sexo: Masculino
+Destino: Hawai
+Fecha de salida: 24-5-22
+Fecha de entrada: 28-5-22
+Acompañado: No
+Equipaje adiiconal: 
+Costo: 300$ 
